@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "six-sided-dice-backend": {
+      "main": "src/six-sided-dice-backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
